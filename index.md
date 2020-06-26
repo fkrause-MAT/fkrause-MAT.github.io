@@ -8,3 +8,5 @@ Selene ist die Hauptfigur der Filmreie Underworld, gespielt von der britischen S
 * übermenschlich Beweglichkeit, Heilung und Geschwindigkeit
 * sie trägt immer einen schwarzn Latexanzug
 * hat eine Schwester Cecilia
+
+> Zum Ersten Mal sehe ich mit Hoffnung in das Licht.
